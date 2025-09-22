@@ -7,7 +7,7 @@ board2.xlsx: [https://board2.com](https://github.com/ajtdengust326/DUADICO_2ECE-
 ---
 ## **ECE BOARD EXAM PROBLEM**
 > Using data wrangling and data visualization technique with storytelling, analyze the data and present different
-> >(i) data frames; and
+> >(i) data frames; and  
 > >(ii) visuals using the dataset given.
 
 Output:
